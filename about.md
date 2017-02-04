@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: "about"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Family
+------
+My kids come first. They are my #1 priority and nothing will ever get in the way of that. I have 3 awesome kids. {% image right crazy_kids.jpg %} and we are blessed to be living in Frisco and amongst our family and friends here and enjoy all that the area has to offer.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Career
+------
+I don't ascribe to the belief that we can truly separate who we are from what we do provided we have found the thing we
+were meant to do. If you don't love your job, you're doing it wrong. I love what I do. It's not without it's challenges
+and trials but that's also what motivates me. There's a quote from Dr. J, "Being a professional is doing what the things you love to do on the days you don't feel like doing them." and that's how I feel about my work. In 2007 I discovered the folks at [Improving](http://improving.com) and I'm so excited to see where we have come and where we are going as a
+company. It's truly different than any other company I've worked for.
