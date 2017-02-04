@@ -22,20 +22,19 @@
 module Jekyll
 
   class PullquoteTag < Liquid::Block
-    PullQuoteMarkup = /\{(.+)\}/i
-
     def initialize(tag_name, markup, tokens)
+      @align = (markup =~ /left/i) ? "left" : "right"
       super
     end
 
     def render(context)
       output = super
-      # if output.join =~ /\{"\s*(.+)\s*"\}/
-      #   @quote = $1
-      #   "<span class='has-pullquote' data-pullquote='#{@quote}'>#{output.join.gsub(/\{"\s*|\s*"\}/, '')}</span>"
-      # else
-      #   return "Surround your pullquote like this {! text to be quoted !}"
-      # end
+      if output =~ /\{"\s*(.+?)\s*"\}/m
+        @quote = RubyPants.new($1).to_html
+        "<span class='pullquote pullquote-#{@align}' data-pullquote='#{@quote}'>#{output.gsub(/\{"\s*|\s*"\}/, '')}</span>"
+      else
+        return "Surround your pullquote like this {\" text to be quoted \"}"
+      end
     end
   end
 end
