@@ -26,6 +26,15 @@ image:
       attr:
         class: left
 
+author:
+  name      : David O'Hara
+  email     : david@driventodevelop.com
+  url       : http://driventodevelop.com
+  github    : http://github.com/davidmohara
+  twitter   : http://twitter.com/davidmohara
+  facebook  : http://facebook.com/davidmohara
+  linkedin  : http://linkedin.com/in/davidmohara
+
 links:
   - name:         About
     url:          /about
