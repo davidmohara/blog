@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   The personal blog for David O'Hara, President of Improving, known speaker
   and thought leader in creating companies of culture and developing leaders.
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: http://driventodevelop.com
+url: http://driventodevelop.com
 twitter_username: davidmohara
 github_username:  davidmohara
 
