@@ -11,7 +11,7 @@ do it, they will attempt (although sometimes only in their minds) to imitate.
 (Yes, I know Penn & Teller do a great job of explaining magic to us...so let's
 not breakdown my analogy too far).
 
-{% image right ped-xing.jpg %}
+{% include image.html class="right" img="ped-xing.jpg" title="I'm crossing here!" %}
 
 There is someone I know who is an amazingly good at his job. He probably puts in
 more hours than anyone else I know and he does it because he sincerely loves

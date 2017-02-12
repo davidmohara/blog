@@ -11,7 +11,7 @@ It's not you...it's me. I have been meaning to do this for a long time and while
 ## Calling It
 There have a been a lot of changes in my life recently and I think that they are
 beginning to effect my perspective on life. Honestly, I sort of hope that they
-do. {% pullquote %}{"Life is short. So damn short, in fact, that it is not worth running thru if you're not enjoying what little time we have on this rock."}{% endpullquote %}
+do. Life is short. So damn short, in fact, that it is not worth running thru if you're not enjoying what little time we have on this rock.
   To that end, I am rebooting my blogging life. The old stuff will remain
   [here](http://blog.davidohara.net) but my new adventures and musings will be here. Maybe at
   some point I'll combine the two domains in some non-breaking way but right now I don't want the hassle

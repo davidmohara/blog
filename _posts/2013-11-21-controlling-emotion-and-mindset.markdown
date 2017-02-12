@@ -9,7 +9,7 @@ Emotion is always a reaction and, therefore, cannot be intentional. Mindsets can
 but intentional is typically better. I say typically because if you were to see a snake in the woods, being reactionary
 can be a life saver. But that's not what we're discussing here...
 
-{% image right zen-lotus-position.jpg %}
+{% include image.html class="right" img="zen-lotus-position.jpg" title="Zen" %}
 This reactionary bias causes the feelings to cloud what makes most sense or what might be the logically correct course
 of action. So how can you control your mindset if you can't see past the emotion?
 We cannot prevent our emotional reactions or control ourselves having certain emotions but we can consciously choose

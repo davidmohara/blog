@@ -5,7 +5,7 @@ date: 2013-06-06 07:33
 comments: true
 categories: [business, Improving]
 ---
-{% image right capitalist_pig.jpg %}"Capitalism" is typically a word that evokes images of a fat business man on a pile of other people's hard work and
+{% include image.html img="capitalist_pig.jpg" title="Capitalist Pig" class="right" %}"Capitalism" is typically a word that evokes images of a fat business man on a pile of other people's hard work and
 money. It's not a pretty image and certainly not one that most folks want to be associated with. No one wants to think
 the profits of their efforts feed some singluarly greedy entity, personal or corporate. However, the reality of business
 is that it REQUIRES profits to maintain it's ability to run and provide the opportunity for folks to work and provide

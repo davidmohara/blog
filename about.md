@@ -5,7 +5,7 @@ title: "about"
 
 Family
 ------
-My kids come first. They are my #1 priority and nothing will ever get in the way of that. I have 3 awesome kids. {% image right crazy_kids.jpg %} and we are blessed to be living in Frisco and amongst our family and friends here and enjoy all that the area has to offer.
+{% include image.html class="right" img="crazy_kids.jpg" %} My kids come first. They are my #1 priority and nothing will ever get in the way of that. I have 3 awesome kids. And we are blessed to be living in Frisco and amongst our family and friends here and enjoy all that the area has to offer.
 
 Career
 ------
