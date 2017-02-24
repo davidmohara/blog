@@ -32,3 +32,7 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# Google Analytics
+google_analytics_tracking_id: UA-163822-7
+google_analytics_domain_name: driventodevelop.com
